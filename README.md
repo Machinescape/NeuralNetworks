@@ -1,5 +1,7 @@
 # NeuralNetworks
 
-Some initial exploratory work with neural networks, geospatial data and ridge regression.
-A large chunck of the code are the replicated work of others.
-Work is initentionally left in experimental state as the main work is done later in AWS
+A replication and refitting for Amazon AWS of the work done by jean et al.
+
+This involves the use of a pre-trained deep neural network and ridge regression to predict areas of poverty within a country.
+
+I have documented the first pass work done in jupyter notebooks with the others done in AWS sagemaker.
